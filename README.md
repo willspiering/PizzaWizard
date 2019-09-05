@@ -1,2 +1,0 @@
-# PizzaWizard
-Created with CodeSandbox
